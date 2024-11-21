@@ -1,6 +1,6 @@
 ### Detailed README.md
 
-# S&P 500 Financial Data Analysis and Visualization
+# S&P 500 Financial Data Scraping and Visualization
 
 This project automates the process of retrieving and analyzing financial data for the top 50 companies in the S&P 500 index. It scrapes data from multiple financial websites, performs various calculations, and generates visualizations to provide insights into stock performance. The project also identifies companies with a "Buy" analyst rating, making it a valuable tool for investment decision-making.
 
