@@ -20,7 +20,7 @@ This project automates the process of retrieving and analyzing financial data fo
 
 ## Project Overview
 
-This project scrapes and analyzes financial data for the top 50 companies in the S&P 500 index. It retrieves data from Yahoo Finance and MarketBeat, calculates various metrics such as P/E ratios, and generates visualizations of stock prices. Additionally, it identifies companies with a "Buy" analyst rating and saves the data for further analysis.
+This project scrapes and analyzes financial data for the top 50 companies in the S&P 500 index. It retrieves data from SlickCharts, Yahoo Finance and MarketBeat, calculates various metrics such as P/E ratios, and generates visualizations of stock prices. Additionally, it identifies companies with a "Buy" analyst rating and saves the data for further analysis.
 
 ## Features
 
